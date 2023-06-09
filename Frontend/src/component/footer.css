@@ -1,0 +1,31 @@
+.fbg{
+    border-radius: 50px;
+    width: 10%;
+    border: 2px solid black;
+}
+
+.footer{
+    background: coral;
+    color: whitesmoke;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.subfoot{
+    width: 50%;
+}
+
+h3{
+    margin: 0;
+}
+
+.imgfoot{
+    padding-top: 9px;
+    text-align: center;
+}
+
+.titlefoot{
+    float: inline-end;
+}
+      

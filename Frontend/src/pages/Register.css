@@ -1,0 +1,32 @@
+.regs{
+  text-align: center;
+  background-color: coral;
+  padding-top: 41px;
+  padding-bottom: 44px;
+}
+
+.regs-logo{
+  width: 100%;
+  max-width: 150px;
+  min-width: 100px;
+  border-radius: 80px;
+}
+
+.regs-logo-title{
+  font-family: 'Press Start 2P', cursive;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.regs-title{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 20px;
+}
+.regs-img-logo{
+  width: 100%;
+}
+
+label{
+  font-family: 'Rubik';
+}
+

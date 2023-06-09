@@ -1,0 +1,100 @@
+.profile{
+  display: flex;
+}
+
+.avatar{
+  border: 5px solid red;
+  width: 100%;
+  margin: 1vw;
+}
+
+p{
+  font-size: 2.9vw;
+  width: fit-content;
+  margin-right: auto;
+  margin-left: 2vw;
+  justify-content: center;
+  font-family: 'Rubik', sans-serif;
+}
+
+.information{
+  width: 100%;
+
+  position: relative;
+  background-color: gainsboro;
+}
+
+.btn{
+  display: flex;
+  gap: 2vw;
+  justify-content: end;
+  background-color: coral;
+}
+
+.head{
+  text-align: center;
+  font-size: 64px;
+  margin: 0;
+  font-family: 'Press Start 2P', cursive;
+  padding: 10px;
+  background-color: coral;
+  color: white;
+  margin-top: 2px;
+  width: 100%;
+
+}
+
+button{
+  width: 100%;
+  border: 1px solid grey;
+  border-radius: 5px ;
+  background-color: gainsboro;
+  color: coral;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 100%;
+  margin-right: 10px;
+  min-width: 50px;
+  max-width: 150px;
+  padding: 10px;
+}
+
+.fav-block{
+  width: 100%;
+  background-color: darkgrey;
+  height: 600px;
+  overflow-y: scroll;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 10%;
+
+}
+
+.inf-profile{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2.9vw;
+}
+
+.profile-footer{
+  width: 100%;
+  background-color: gainsboro;
+  position: relative;
+  padding-top: 6px;
+}
+
+.add-button-block{
+  text-align: center;
+}
+
+
+.add-button-btn{
+  background-color: coral;
+  color:white;
+  border: 1px solid white;
+  padding: 15px;
+  min-width: 30%;
+}

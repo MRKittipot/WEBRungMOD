@@ -1,0 +1,87 @@
+.login-logo{
+    border-radius: 50px;
+    width: 100%;
+    max-width: 150px;
+    min-width: 100px;
+    border-radius: 80px;
+}
+
+.p-title{
+    margin-left: 0;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    width: 100%;
+}
+.p-description{
+    font-size: large;
+    margin-top: 10px;
+    width: 100%;
+    margin-left: 0;
+    text-align: center;
+}
+
+.body-main-b{
+    margin-top: 20px;
+    text-align: center;
+}
+
+/*.pe,.pw{
+    width: 20%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: start;
+    padding-top: 10px;
+}*/
+
+.password-int,.email-int{
+    width: 100%;
+    min-width: 200px;
+    max-width: 300PX;
+    padding: 6PX 5px 6px 0;
+}
+
+.foot-main-b{
+    margin-top: 20px;
+    /*display: flex;
+    justify-content:space-between;*/
+    width: 100%;
+    text-align: center;
+}
+
+.sin,.sup{
+    border-radius: 5px;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    max-width: 100px;
+    min-width: 80px;
+    font-size: 100%;
+}
+
+
+.sin:hover,.sup:hover{
+    background-color: aliceblue;
+}
+
+.sup{
+    color: rgb(121,121,122);
+}
+
+.sin{
+    color: coral;
+}
+
+.logo-part{
+    text-align: center;
+}
+
+.main-block{
+    height: 100%;
+    min-height: 745px;
+    background-color: coral;
+    margin-bottom: 0;
+}
+
+.head-main-b{
+    padding-top: 7%;
+}

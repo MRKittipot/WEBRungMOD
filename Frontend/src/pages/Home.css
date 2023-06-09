@@ -1,0 +1,87 @@
+h1{
+  font-size: 10vw;
+  width: fit-content;
+  height: fit-content;
+  text-decoration: underline;
+  margin-bottom: 50px;
+}
+.title {
+  border: 3px salmon;
+  padding: 40px;
+  color: coral;
+  font-family: 'Press Start 2P', cursive;
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ld-button-b {
+  text-align: center;
+  padding: 10px;
+}
+
+.nav-start-btn,.nav-button {
+  border-radius: 30px;
+  border: none;
+  padding: 10px;
+  width: 150px;
+  height: 50px;
+  background: white;
+  color: coral;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.nav-start-btn:hover {
+  background: gainsboro;
+  color: coral;
+}
+
+.main-title,
+.main-title2 {
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  color: aliceblue;
+}
+
+.main-idea,
+.main-idea2 {
+  text-align: start;
+  font-size: 32px;
+  color: aliceblue;
+}
+
+.body{
+  animation: block; 
+  animation-duration: 0.75s;
+}
+
+@keyframes block {
+  0%{
+    opacity: 0.2;
+    transform: translateY(-250px);
+  }
+  100%{
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+
+.brief{
+  padding-bottom: 5vw;
+}
+
+.block-1,.block-2{
+  width: 100%;
+  background: coral;
+  margin: 2vw 0;
+  border-radius: 5px;
+  padding: 2vw 0;
+}
+
+.p-idiom{
+  margin-bottom: 50px;
+}

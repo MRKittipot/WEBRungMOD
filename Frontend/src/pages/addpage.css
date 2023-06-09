@@ -1,0 +1,58 @@
+.path-back{
+    background-color: rgba(122, 121, 121, 0.5);
+    padding: 20px;
+}
+
+.main-b-add{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 2.5vw;
+}
+
+.add-detail{
+    min-width: 100%;
+    max-width: 800px;
+    min-width: 600px;
+    text-align: center;
+    margin-top: 2.5vw;
+    background-color: coral;
+    height: 100%;
+    min-height: 600px;
+}
+
+.img-detail{
+    text-align: center;
+    width: 100%;
+    max-width: 800px;
+    min-width: 600px;
+    height: 100%;
+    min-height: 600px;
+    margin-top: 2.5vw;
+}
+
+.img-add{
+    max-width: 100%;
+}
+
+.add-detail-subclass{
+    text-align: center;
+    font-family: "Rubik", sans-serif;;
+}
+
+.add-detail-title{
+    padding-top: 80px;
+    color: whitesmoke;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.add-file-addpage{
+    margin-top: 30px;
+}
+
+.form-add{
+    font-family: "Rubik", sans-serif;;
+}
+
